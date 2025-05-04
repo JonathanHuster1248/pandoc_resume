@@ -3,11 +3,11 @@ Jonathan Huster
 
 ----
 
-> I am a software developer with a background in energy. My current role is "Senior Software 
-> Developer" at Ascend Analytics where I work with Python to create data modeling tools. 
-> I enjoy working on collaborative teams using cutting edge technologies.  
+> Software developer with a background in energy systems and advanced data modeling. Currently a Senior Software Developer at Ascend Analytics, building scalable, containerized tools in Python and Azure. Passionate about collaboration, clean architecture, and clean energy.  
 
 ----
+
+> Chicago, IL | <gahaya1248@gmail.com> | [LinkedIn](https://www.linkedin.com/in/jonathan-huster/) | [GitHub](https://github.com/JonathanHuster1248) | [Personal Website](https://huster.website/)
 
 Education
 ---------
@@ -28,39 +28,37 @@ Experience
 Worked on a team of 7 engineers creating sustainable scalable backend products. 
 Focused on areas of data engineering, modeling, containerization, and Testing:
 
-* Designed and implemented model improvements decreasing model run time by 40%
+* Refactored data modeling implementation, reducing model run time by 40%
 
-* Trained a dozen non-technical team memebers to use cloud resources for a 60% cost reduction 
+* Trained 12+ non-technical team members to use cloud-based workflows, lowering compute costs by 60%.
 
-* Dockerized sub-modules enabliung runs on Azure Infrastructure for scalability and repeatability
+* Dockerized key submodules, enabling cloud-native execution via Azure Batch implementation
 
-* Assisted in migrating file systems to blob from on prem. resources for security, accessibility, and ease of use
+* Assisted in migration from on-premise file systems to Azure Blob Storage, improving security and accessibility
 
 
 **Summer Intern - Federal Energy Regulatory Commission**
 
-* Created Power-BI dashboard with SQL and Pandas to enpower non-technical individuals to explore millions of data points 
+* Built interactive Power BI dashboards integrated with SQL and Pandas, empowering non-technical teams to explore energy datasets with millions of rows
 
 
 **Research Associate - JGCRI (Pacific Northwest National Lab)**
 
-* Identified and built naratives quantifying and communicating impacts from data and model results
+* Synthesized large-scale climate and energy model outputs into clear policy-relevant insights.
 
-* Formatted, aggregated, and synthesized data (~1,000,000's rows) using R's Tidyverse package
+* Automated data processing using R (Tidyverse), handling millions of rows across multiple formats.
 
 Technical Experience
---------------------
+-------------------- 
 
-Arjan Codes
-: I earned a certificate from [Arjan Codes](https://www.arjancodes.com/) for the completion of his Software Designer Mindset. I learned about pytest and unit-tests, simple CI/CD pipelines, and design practices in minimizing coupling and maximizing cohesion. 
+Certificates
+: Software Designer Mindset ([ArjanCodes](https://www.arjancodes.com/)) – Learned designing and architechting best practices, pytest, and CI/CD pipelines
 
+Languages
+: Python (Pandas, NumPy, pytest), SQL, R (Tidyverse)
 
-Programming Languages
-:   **Python:** I have focused on data modeling, using libraries like Pandas and 
-Numpy. I have used pytest and unittest to validate behavior intereacted with Azure's blob systems 
-and utilized Docker to standardize and scale code usage with batch jobs and container apps on Azure. 
+Tools
+: Docker, Azure Blob Storage, Azure Container Apps, Power BI, Git
 
-
-----
-
-> <gahaya1248@gmail.com> 
+Concepts
+: Data modeling, CI/CD, Cloud Computing, Cost Optimization, Data Engineering
