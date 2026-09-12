@@ -15,8 +15,6 @@ Education
 2020-2022 
 :   **MS, Energy Resources Engineering**; Stanford University (Palo Alto, CA)
 
-    *Thesis: Carbon Abatement Cost Curves for Power Generation in the United States*
-
 2014-2018
 :   **BA, Physics**; Washington University in St. Louis (St. Louis, MO)
 
@@ -25,7 +23,7 @@ Experience
 
 **Senior Software Engineer - Ascend Analytics**
 
-Collaborated with a 7-person engineering team across software development, data engineering, testing, and deployment.
+Worked in a 7-person engineering team across software development, data engineering, testing, and deployment.
 
 * Designed and implemented scalable backend systems for data-intensive applications, spanning data storage, processing, containerization, and cloud execution
 
@@ -35,47 +33,21 @@ Collaborated with a 7-person engineering team across software development, data 
 
 * Implemented containerized execution workflows using Docker and Azure Batch, enabling computational workloads to scale independently in the cloud
 
-* Migrated production data from on-premise file systems to Azure Blob Storage, improving scalability, accessibility, and security of data infrastructure
-
 * Developed infrastructure using Terraform, including Azure Container Apps and Batch compute resources, enabling reproducible cloud environments
 
-* Designed promotion processes for three internal applications to make stable, gated, and automated promotion procedures
+* Designed stable, gated, and automated promotion processes for three internal applications to speed and regularize our promotions
 
-* Took ownership of incoming application to provide a stable point of contact and support for ongoing use cases and feature additions 
+* Took ownership of incoming application to provide a consistent point of contact for support and feature additions 
 
 
 **Graduate Student Intern - Federal Energy Regulatory Commission**
 
-Built tools to empower non-technical collaborators to explore data and identify anomalous behavior 
+* Built a Power BI dashboard with SQL and Pandas, enabling non-technical users to explore 10M+ data points.
 
-* Built a Power BI analytics platform using SQL and Pandas, enabling non-technical users to explore millions of data points.
-
-* Applied scikit-learn to identify anomalous decision-making patterns in large datasets
 
 **Research Associate - JGCRI (Pacific Northwest National Lab)**
 
-* Synthesized model outputs into clear policy-relevant insights
-
 * Developed reproducible ETL pipelines in R/Tidyverse to process multi-format datasets and contributed to open-source research software. 
-
-Technical Experience
---------------------
-
-[One Line a Day Journal]()
-: I created a containerized application that stores and displays daily journals stored by multiple users. The backend is written in Python (Pandera and SQL Alchemy) with a small react based frontend to enable new submissions and viewing existing journals. 
-
-Languages
-: Python (Pandas, NumPy, pytest), R (Tidyverse), SQL  
-
-Cloud & DevOps
-: Docker, Azure Blob Storage, Azure Batch, Git  
-
-Data Engineering
-: Data modeling, ETL, CI/CD, Cloud-native pipelines  
-
-Tools
-: VSCode, WSL, Jupyter, GitHub Actions, Power BI
-
 
 ----
 
